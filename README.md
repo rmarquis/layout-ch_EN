@@ -1,4 +1,7 @@
 layout-ch_EN
 ============
 
-My own Swiss English keyboard layout, because why not?
+A US keyboard layout expanded with Swiss diacritics for cosmopolitan Swiss coders who wants their keyboard to transcend national boundaries and erase digital frontiers.
+
+Compile and install with Microsoft Keyboard Layout Creator (MSKLC).
+
